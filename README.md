@@ -12,6 +12,7 @@ A full-stack web application connecting students with universities worldwide, fe
 - 🤖 AI Chatbot for Admission Guidance
 - 💼 Internship & Placement Opportunities
 - ⭐ Review & Rating System
+- 🏫 Attend different collage events or get update about different collage events like coding etc
 - 🌐 Multilingual Support
 
 ## Tech Stack
